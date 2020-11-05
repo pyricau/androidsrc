@@ -19,6 +19,8 @@ You can improve this page and help the Android community by opening [an issue](h
   * [Startup](https://cs.android.com/androidx/platform/frameworks/support/+/androidx-master-dev:startup/)
   * [Compose](https://cs.android.com/androidx/platform/frameworks/support/+/androidx-master-dev:compose/)
   * There's way more entries to add here.
+* Jetpack libraries are also available on Github: [androidx/android](https://github.com/androidx/androidx)
+  * Github contributions workflow is still experimental. See [contribution guide](https://github.com/androidx/androidx#contribution-guide)
 
 ## ConstraintLayout / MotionLayout
 
