@@ -10,7 +10,7 @@ This page helps Android developers find the sources they're looking for.
 
 ## Jetpack
 
-* Most Jetpack libraries have sources available [on cs.android.com/androidx](https://cs.android.com/androidx/platform/frameworks/support). Some interesting ones:
+* Most Jetpack libraries have sources available on [cs.android.com/androidx](https://cs.android.com/androidx/platform/frameworks/support). Some interesting ones:
   * [Activity](https://cs.android.com/androidx/platform/frameworks/support/+/androidx-master-dev:activity/)
   * [Compose](https://cs.android.com/androidx/platform/frameworks/support/+/androidx-master-dev:compose/)
   * [Fragment](https://cs.android.com/androidx/platform/frameworks/support/+/androidx-master-dev:fragment/)
@@ -33,8 +33,8 @@ This page helps Android developers find the sources they're looking for.
 
 ## Data Binding
 
-* Latest sources are [on android.googlesource.com](https://android.googlesource.com/platform/frameworks/data-binding/+/refs/heads/mirror-goog-studio-master-dev/extensions/library/src/main/java/androidx/databinding) on the `mirror-goog-studio-master-dev` branch.
-* When a release is stable, its sources are synced [to cs.android.com/android](https://cs.android.com/android/platform/superproject/+/studio-master-dev:tools/data-binding/extensions/library/src/main/java/androidx/databinding/) on the `studio-master-dev` branch.
+* Latest sources are on [android.googlesource.com](https://android.googlesource.com/platform/frameworks/data-binding/+/refs/heads/mirror-goog-studio-master-dev/extensions/library/src/main/java/androidx/databinding) on the `mirror-goog-studio-master-dev` branch.
+* When a release is stable, its sources are synced to [cs.android.com/android](https://cs.android.com/android/platform/superproject/+/studio-master-dev:tools/data-binding/extensions/library/src/main/java/androidx/databinding/) on the `studio-master-dev` branch.
   * 👎🔎 Not searchable online: the `studio-master-dev` branch is not indexed.
 
 ## Dagger 2
@@ -43,7 +43,7 @@ This page helps Android developers find the sources they're looking for.
 
 # The Android Framework
 
-* Available [on cs.android.com/android](https://cs.android.com/android/platform/superproject)
+* Available on [cs.android.com/android](https://cs.android.com/android/platform/superproject)
 * View internals? See [View.java](https://cs.android.com/android/platform/superproject/+/master:frameworks/base/core/java/android/view/View.java).
 * Activity lifecycle? See [ActivityThread.java](https://cs.android.com/android/platform/superproject/+/master:frameworks/base/core/java/android/app/ActivityThread.java).
 * Art Runtime? See [class.cc](https://cs.android.com/android/platform/superproject/+/master:art/runtime/mirror/class.cc).
@@ -58,14 +58,14 @@ This page helps Android developers find the sources they're looking for.
 
 # Android Studio
 
-* Latest sources are [on android.googlesource.com](https://android.googlesource.com/platform/tools/adt/idea/+/refs/heads/mirror-goog-studio-master-dev/) on the `mirror-goog-studio-master-dev` branch.
-* When a release is stable, its sources are synced [to cs.android.com/android](https://cs.android.com/android/platform/superproject/+/studio-master-dev:tools/adt/idea/) on the `studio-master-dev` branch.
+* Latest sources are on [android.googlesource.com](https://android.googlesource.com/platform/tools/adt/idea/+/refs/heads/mirror-goog-studio-master-dev/) on the `mirror-goog-studio-master-dev` branch.
+* When a release is stable, its sources are synced to [cs.android.com/android](https://cs.android.com/android/platform/superproject/+/studio-master-dev:tools/adt/idea/) on the `studio-master-dev` branch.
   * 👎🔎 Not searchable online: the `studio-master-dev` branch is not indexed.
 
 # Android Gradle Plugin (AGP)
 
-* Latest sources are [on android.googlesource.com](https://android.googlesource.com/platform/tools/base/+/refs/heads/mirror-goog-studio-master-dev/build-system/) on the `mirror-goog-studio-master-dev` branch.
-* When a release is stable, its sources are synced [to cs.android.com/android](https://cs.android.com/android/platform/superproject/+/studio-master-dev:tools/base/build-system/;bpv=1) on the `studio-master-dev` branch.
+* Latest sources are on [android.googlesource.com](https://android.googlesource.com/platform/tools/base/+/refs/heads/mirror-goog-studio-master-dev/build-system/) on the `mirror-goog-studio-master-dev` branch.
+* When a release is stable, its sources are synced to [cs.android.com/android](https://cs.android.com/android/platform/superproject/+/studio-master-dev:tools/base/build-system/;bpv=1) on the `studio-master-dev` branch.
   * 👎🔎 Not searchable online: the `studio-master-dev` branch is not indexed.
 * [@jrodbx](https://github.com/jrodbx) dumped the sources for each release [on github](https://github.com/jrodbx/agp-sources).
   * The sources are dumped from Maven Central.
@@ -76,7 +76,7 @@ This page helps Android developers find the sources they're looking for.
 
 # Firebase
 
-* A subset of Firebase Android libraries have sources available [on GitHub](https://github.com/firebase/firebase-android-sdk), also browsable [on cs.opensource.google/firebase-sdk](https://cs.opensource.google/firebase-sdk/firebase-android-sdk).
+* A subset of Firebase Android libraries have sources available [on GitHub](https://github.com/firebase/firebase-android-sdk), also browsable on [cs.opensource.google/firebase-sdk](https://cs.opensource.google/firebase-sdk/firebase-android-sdk).
   * Firebase Analytics is not open source.
 
 # Bazel
@@ -89,7 +89,7 @@ Bazel is a build tool maintained by Google but not part of the official Android 
 
 Skia is a 2D graphics library used by Android and Compose Desktop. On Android it's always been used for software rendering, and is used for hardware rendering except from Android 3.0 to 9.0.
 
-* Available [on cs.opensource.google/skia](https://cs.opensource.google/skia/skia).
+* Available on [cs.opensource.google/skia](https://cs.opensource.google/skia/skia).
 
 # Google Play Services
 
