@@ -14,11 +14,15 @@ You can improve this page and help the Android community by opening [an issue](h
 
 ## Jetpack
 
-* Most Jetpack libraries have sources available [on cs.android.com](https://cs.android.com/androidx/platform/frameworks/support) in the _androidx_ subproject.
-  * [androidx.activity](https://cs.android.com/androidx/platform/frameworks/support/+/androidx-master-dev:activity/)
-  * [Startup](https://cs.android.com/androidx/platform/frameworks/support/+/androidx-master-dev:startup/)
+* Most Jetpack libraries have sources available [on cs.android.com](https://cs.android.com/androidx/platform/frameworks/support) in the _androidx_ subproject. Some interesting ones:
+  * [Activity](https://cs.android.com/androidx/platform/frameworks/support/+/androidx-master-dev:activity/)
   * [Compose](https://cs.android.com/androidx/platform/frameworks/support/+/androidx-master-dev:compose/)
-  * There are more entries to add here.
+  * [Fragment](https://cs.android.com/androidx/platform/frameworks/support/+/androidx-master-dev:fragment/)
+  * [Navigation](https://cs.android.com/androidx/platform/frameworks/support/+/androidx-master-dev:navigation/)
+  * [Paging](https://cs.android.com/androidx/platform/frameworks/support/+/androidx-master-dev:paging/)
+  * [Room](https://cs.android.com/androidx/platform/frameworks/support/+/androidx-master-dev:room/)
+  * [WorkManager](https://cs.android.com/androidx/platform/frameworks/support/+/androidx-master-dev:work/)
+  * [Startup](https://cs.android.com/androidx/platform/frameworks/support/+/androidx-master-dev:startup/)
 * That repository is also synced [to GitHub](https://github.com/androidx/androidx)
     * You can contribute via GitHub to a [subset of projects](https://github.com/androidx/androidx#contribution-guide) (experimental workflow). You can also contribute by clicking **Edit Code** in a file on cs.android.com, which should work for all projects in that repository.
 
