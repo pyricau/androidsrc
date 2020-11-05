@@ -31,8 +31,8 @@ You can improve this page and help the Android community by opening [an issue](h
 
 ## Data Binding
 
-* Available [on android.googlesource.com](https://android.googlesource.com/platform/frameworks/data-binding/+/refs/heads/mirror-goog-studio-master-dev/extensions/library/src/main/java/androidx/databinding) on the `mirror-goog-studio-master-dev` branch.
-  * 👎🔎 Not searchable online: googlesource.com is not indexed.
+* Available [on cs.android.com](https://cs.android.com/android/platform/superproject/+/studio-master-dev:tools/data-binding/extensions/library/src/main/java/androidx/databinding/) on the `studio-master-dev` branch and [on android.googlesource.com](https://android.googlesource.com/platform/frameworks/data-binding/+/refs/heads/mirror-goog-studio-master-dev/extensions/library/src/main/java/androidx/databinding) on the `mirror-goog-studio-master-dev` branch.
+  * 👎🔎 Not searchable online: the `studio-master-dev` branch is not indexed.
 
 ## Dagger 2
 
