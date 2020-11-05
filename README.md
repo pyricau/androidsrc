@@ -4,7 +4,7 @@
 
 Developers write better apps when they can [read the source](https://blog.codinghorror.com/learn-to-read-the-source-luke/). Unfortunately, the sources for the Android framework and various Google Android libraries are scattered all over the web.
 
-This pages aims to help developers find the sources they're looking for.
+This pages helps developers find the sources they're looking for.
 
 ## Can I help? 
 
