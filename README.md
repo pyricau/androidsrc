@@ -18,9 +18,9 @@ You can improve this page and help the Android community by opening [an issue](h
   * [androidx.activity](https://cs.android.com/androidx/platform/frameworks/support/+/androidx-master-dev:activity/)
   * [Startup](https://cs.android.com/androidx/platform/frameworks/support/+/androidx-master-dev:startup/)
   * [Compose](https://cs.android.com/androidx/platform/frameworks/support/+/androidx-master-dev:compose/)
-  * There's way more entries to add here.
-* Jetpack libraries are also available on Github: [androidx/androidx](https://github.com/androidx/androidx)
-  * Github contributions workflow is still experimental. See [contribution guide](https://github.com/androidx/androidx#contribution-guide)
+  * There are more entries to add here.
+* That repository is also synced [to GitHub](https://github.com/androidx/androidx)
+    * You can contribute via GitHub to a [subset of projects](https://github.com/androidx/androidx#contribution-guide) (experimental workflow). You can also contribute by clicking **Edit Code** in a file on cs.android.com, which should work for all projects in that repository.
 
 ## ConstraintLayout / MotionLayout
 
@@ -33,7 +33,8 @@ You can improve this page and help the Android community by opening [an issue](h
 
 ## Data Binding
 
-* Available [on cs.android.com](https://cs.android.com/android/platform/superproject/+/studio-master-dev:tools/data-binding/extensions/library/src/main/java/androidx/databinding/) on the `studio-master-dev` branch and [on android.googlesource.com](https://android.googlesource.com/platform/frameworks/data-binding/+/refs/heads/mirror-goog-studio-master-dev/extensions/library/src/main/java/androidx/databinding) on the `mirror-goog-studio-master-dev` branch.
+* Latest sources are [on android.googlesource.com](https://android.googlesource.com/platform/frameworks/data-binding/+/refs/heads/mirror-goog-studio-master-dev/extensions/library/src/main/java/androidx/databinding) on the `mirror-goog-studio-master-dev` branch.
+* When a release is stable, its sources are synced [to cs.android.com](https://cs.android.com/android/platform/superproject/+/studio-master-dev:tools/data-binding/extensions/library/src/main/java/androidx/databinding/) on the `studio-master-dev` branch.
   * 👎🔎 Not searchable online: the `studio-master-dev` branch is not indexed.
 
 ## Dagger 2
@@ -57,13 +58,16 @@ You can improve this page and help the Android community by opening [an issue](h
 
 # Android Studio
 
-* Available [on cs.android.com](https://cs.android.com/android/platform/superproject/+/studio-master-dev:tools/adt/idea/) on the `studio-master-dev` branch.
+* Latest sources are [on android.googlesource.com](https://android.googlesource.com/platform/tools/adt/idea/+/refs/heads/mirror-goog-studio-master-dev/) on the `mirror-goog-studio-master-dev` branch.
+* When a release is stable, its sources are synced [to cs.android.com](https://cs.android.com/android/platform/superproject/+/studio-master-dev:tools/adt/idea/) on the `studio-master-dev` branch.
   * 👎🔎 Not searchable online: the `studio-master-dev` branch is not indexed.
 
 # Android Gradle Plugin (AGP)
 
-* Available [on android.googlesource.com](https://android.googlesource.com/platform/tools/base/+/refs/heads/mirror-goog-studio-master-dev/build-system/) on the `mirror-goog-studio-master-dev` branch.
+* Latest sources are [on android.googlesource.com](https://android.googlesource.com/platform/tools/base/+/refs/heads/mirror-goog-studio-master-dev/build-system/) on the `mirror-goog-studio-master-dev` branch.
+* When a release is stable, its sources are synced [to cs.android.com](https://cs.android.com/android/platform/superproject/+/studio-master-dev:tools/base/build-system/;bpv=1) on the `studio-master-dev` branch.
 * [@jrodbx](https://github.com/jrodbx) dumped the sources for each release [on github](https://github.com/jrodbx/agp-sources).
+  * This is handy for debugging Gradle builds, however these sources might miss commits cherry-picked into weekly release branches, as those aren't reflected in any AOSP branch.
 
 # Kotlin
 
