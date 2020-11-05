@@ -83,7 +83,7 @@ This page helps Android developers find the sources they're looking for.
 
 Bazel is a build tool maintained by Google but not part of the official Android toolchain. Some Android devs begrudgingly use it.
 
-* Bazel is developed [on Github](https://github.com/bazelbuild/) and browsable [cs.opensource.google/bazel](https://cs.opensource.google/bazel).
+* Bazel is developed [on Github](https://github.com/bazelbuild/) and browsable on [cs.opensource.google/bazel](https://cs.opensource.google/bazel).
 
 # Skia
 
