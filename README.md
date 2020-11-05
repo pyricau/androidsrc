@@ -78,6 +78,18 @@ You can improve this page and help the Android community by opening [an issue](h
 
 * A subset of Firebase Android libraries have sources available [on GitHub](https://github.com/firebase/firebase-android-sdk), also browsable [on cs.opensource.google](https://cs.opensource.google/firebase-sdk/firebase-android-sdk).
 
+# Bazel
+
+Bazel is a build tool maintained by Google but not part of the official Android toolchain. Some Android devs begrudgingly use it.
+
+* Bazel is developed [on Github](https://github.com/bazelbuild/) and browsable [cs.opensource.google](https://cs.opensource.google/bazel).
+
+# Skia
+
+Skia is a 2D graphics library that may or may not be used by Android. It sounds like it's used by Compose Desktop though, so kind of relevant.
+
+* Available [on cs.opensource.google](https://cs.opensource.google/skia/skia)
+
 # Google Play Services
 
 * Play Services is not open source. I added this entry because people keep asking about it 😅.
