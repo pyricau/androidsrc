@@ -42,7 +42,7 @@ You can improve this page and help the Android community by opening [an issue](h
 
 * Available [on cs.android.com](https://cs.android.com/android/platform/superproject)
 * View internals? See [View.java](https://cs.android.com/android/platform/superproject/+/master:frameworks/base/core/java/android/view/View.java).
-* Activity lifecycle? See [ActivityThead.java](https://cs.android.com/android/platform/superproject/+/master:frameworks/base/core/java/android/app/ActivityThread.java).
+* Activity lifecycle? See [ActivityThread.java](https://cs.android.com/android/platform/superproject/+/master:frameworks/base/core/java/android/app/ActivityThread.java).
 * Art Runtime? See [class.cc](https://cs.android.com/android/platform/superproject/+/master:art/runtime/mirror/class.cc).
 
 ## What if it's a new version, sources not available yet?
