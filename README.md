@@ -66,6 +66,7 @@ You can improve this page and help the Android community by opening [an issue](h
 
 * Latest sources are [on android.googlesource.com](https://android.googlesource.com/platform/tools/base/+/refs/heads/mirror-goog-studio-master-dev/build-system/) on the `mirror-goog-studio-master-dev` branch.
 * When a release is stable, its sources are synced [to cs.android.com](https://cs.android.com/android/platform/superproject/+/studio-master-dev:tools/base/build-system/;bpv=1) on the `studio-master-dev` branch.
+  * 👎🔎 Not searchable online: the `studio-master-dev` branch is not indexed.
 * [@jrodbx](https://github.com/jrodbx) dumped the sources for each release [on github](https://github.com/jrodbx/agp-sources).
   * This is handy for debugging Gradle builds, however these sources might miss commits cherry-picked into weekly release branches, as those aren't reflected in any AOSP branch.
 
