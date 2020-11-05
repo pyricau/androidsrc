@@ -4,8 +4,6 @@ Developers write better apps when they can [read the source](https://blog.coding
 
 This page helps Android developers find the sources they're looking for.
 
-![icon](/assets/favicon-medium.png)
-
 🤔 Something missing? [Report](https://github.com/pyricau/androidsrc/issues/new) or [edit](https://github.com/pyricau/androidsrc/edit/main/README.md).
 
 # Libraries
