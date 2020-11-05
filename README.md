@@ -69,6 +69,10 @@ You can improve this page and help the Android community by opening [an issue](h
 
 * Sources for the Kotlin compiler and standard lib are [on GitHub](https://github.com/JetBrains/kotlin)
 
+# Firebase
+
+* A subset of Firebase Android libraries have sources available [on GitHub](https://github.com/firebase/firebase-android-sdk), also browsable [on cs.opensource.google](https://cs.opensource.google/firebase-sdk/firebase-android-sdk).
+
 # Google Play Services
 
 * Play Services is not open source. I added this entry because people keep asking about it 😅.
