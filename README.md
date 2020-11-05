@@ -90,7 +90,7 @@ Bazel is a build tool maintained by Google but not part of the official Android 
 
 # Skia
 
-Skia is a 2D graphics library that may or may not be used by Android. It sounds like it's used by Compose Desktop though, so kind of relevant.
+Skia is a 2D graphics library used by Android and Compose Desktop. On Android it's always been used for software rendering, and is used for hardware rendering except from Android 3.0 to 9.0.
 
 * Available [on cs.opensource.google](https://cs.opensource.google/skia/skia)
 
