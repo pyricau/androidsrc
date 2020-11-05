@@ -72,7 +72,7 @@ This pages helps Android developers find the sources they're looking for.
 
 # Kotlin
 
-* Sources for the Kotlin compiler and standard lib are [on GitHub](https://github.com/JetBrains/kotlin)
+* Sources for the Kotlin compiler and standard lib are [on GitHub](https://github.com/JetBrains/kotlin).
 
 # Firebase
 
@@ -88,7 +88,7 @@ Bazel is a build tool maintained by Google but not part of the official Android 
 
 Skia is a 2D graphics library used by Android and Compose Desktop. On Android it's always been used for software rendering, and is used for hardware rendering except from Android 3.0 to 9.0.
 
-* Available [on cs.opensource.google](https://cs.opensource.google/skia/skia)
+* Available [on cs.opensource.google](https://cs.opensource.google/skia/skia).
 
 # Google Play Services
 
