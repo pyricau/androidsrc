@@ -14,7 +14,8 @@ You can improve this page and help the Android community by opening [an issue](h
 
 ## Jetpack
 
-* Most Jetpack libraries have sources available [on cs.android.com](https://cs.android.com/androidx/platform/frameworks/support) in the _androidx_ sub project.
+* Most Jetpack libraries have sources available [on cs.android.com](https://cs.android.com/androidx/platform/frameworks/support) in the _androidx_ subproject.
+  * [androidx.activity](https://cs.android.com/androidx/platform/frameworks/support/+/androidx-master-dev:activity/)
   * [Startup](https://cs.android.com/androidx/platform/frameworks/support/+/androidx-master-dev:startup/)
   * [Compose](https://cs.android.com/androidx/platform/frameworks/support/+/androidx-master-dev:compose/)
   * There's way more entries to add here.
@@ -31,7 +32,7 @@ You can improve this page and help the Android community by opening [an issue](h
 ## Data Binding
 
 * Available [on android.googlesource.com](https://android.googlesource.com/platform/frameworks/data-binding/+/refs/heads/mirror-goog-studio-master-dev/extensions/library/src/main/java/androidx/databinding) on the `mirror-goog-studio-master-dev` branch.
-  * 🙅🔎 Not searchable online: googlesource.com is not indexed.
+  * 👎🔎 Not searchable online: googlesource.com is not indexed.
 
 ## Dagger 2
 
@@ -46,26 +47,26 @@ You can improve this page and help the Android community by opening [an issue](h
 
 ## What if it's a new version, sources not available yet?
 
-* Start an emulator for the latest version
-* adb pull /system/framework/framework.jar
-* unzip framework.jar (contains dexes)
-* Use dex2jar to turn dexes into jars
-* Explore with jd-gui or IntelliJ (hack: add as a dependency)
+* Start an emulator for the latest version.
+* Run `adb pull /system/framework/framework.jar`.
+* Unzip `framework.jar` (contains dexes).
+* Use dex2jar to turn dexes into jars.
+* Explore with [jd-gui](http://java-decompiler.github.io/) or IntelliJ (hack: add as a dependency)
 
 # Android Studio
 
 * Available [on cs.android.com](https://cs.android.com/android/platform/superproject/+/studio-master-dev:tools/adt/idea/) on the `studio-master-dev` branch.
-  * 🙅🔎 Not searchable online: the `studio-master-dev` branch is not indexed.
+  * 👎🔎 Not searchable online: the `studio-master-dev` branch is not indexed.
 
 # Android Gradle Plugin
 
 * Not sure about the latest master.
-* [@jrodbx](https://github.com/jrodbx) dumped the sources for each release [on github](https://github.com/jrodbx/agp-sources)
+  * [@jrodbx](https://github.com/jrodbx) dumped the sources for each release [on github](https://github.com/jrodbx/agp-sources)
 
 # Kotlin
 
-* Sources the Kotlin compiler standard lib are [on GitHub](https://github.com/JetBrains/kotlin)
+* Sources for the Kotlin compiler and standard lib are [on GitHub](https://github.com/JetBrains/kotlin)
 
 # Google Play Services
 
-Play Services is not open source. I added this entry because people keep asking about it 😅.
+* Play Services is not open source. I added this entry because people keep asking about it 😅.
