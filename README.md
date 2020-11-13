@@ -24,18 +24,22 @@ This page helps Android developers find the sources they're looking for.
 
 ## ConstraintLayout / MotionLayout
 
-* Developed directly [on GitHub](https://github.com/androidx/constraintlayout), browsable on [cs.android.com/androidx](https://cs.android.com/androidx/constraintlayout/+/main:constraintlayout/).
+* Developed directly [on GitHub](https://github.com/androidx/constraintlayout), browsable on [cs.android.com](https://cs.android.com/androidx/constraintlayout).
   * The git history starts at 2.0.0, 1.x sources are available [here](https://cs.android.com/androidx/constraintlayout/+/main:constraintlayout/constraintlayout/src/main/java/androidx/constraintlayout/widget/ConstraintLayout.java).
 
 ## Espresso / Android Test
 
-* Developed directly [on GitHub](https://github.com/android/android-test).
+* Developed directly [on GitHub](https://github.com/android/android-test), browsable on [cs.android.com](https://cs.android.com/androidx/android-test)
 
 ## Data Binding
 
-* Latest sources are on [android.googlesource.com](https://android.googlesource.com/platform/frameworks/data-binding/+/refs/heads/mirror-goog-studio-master-dev/extensions/library/src/main/java/androidx/databinding) on the `mirror-goog-studio-master-dev` branch.
+* Latest sources are browsable on [cs.android.com](https://cs.android.com/androidx/platform/frameworks/data-binding)
 * When a release is stable, its sources are synced to [cs.android.com/android](https://cs.android.com/android/platform/superproject/+/studio-master-dev:tools/data-binding/extensions/library/src/main/java/androidx/databinding/) on the `studio-master-dev` branch.
-  * 👎🔎 Not searchable online: the `studio-master-dev` branch is not indexed.
+  * 👎🔎 Release version is not searchable online: the `studio-master-dev` branch is not indexed.
+
+## Material Components for Android
+
+* Developed directly [on GitHub](https://github.com/material-components/material-components-android), browsable on [cs.opensource.google](https://cs.opensource.google/material-components/material-components-android).
 
 ## Dagger 2
 
@@ -58,15 +62,15 @@ This page helps Android developers find the sources they're looking for.
 
 # Android Studio
 
-* Latest sources are on [android.googlesource.com](https://android.googlesource.com/platform/tools/adt/idea/+/refs/heads/mirror-goog-studio-master-dev/) on the `mirror-goog-studio-master-dev` branch.
+* Latest sources are browsable on [cs.android.com](https://cs.android.com/android-studio/platform/tools/adt/idea).
 * When a release is stable, its sources are synced to [cs.android.com/android](https://cs.android.com/android/platform/superproject/+/studio-master-dev:tools/adt/idea/) on the `studio-master-dev` branch.
-  * 👎🔎 Not searchable online: the `studio-master-dev` branch is not indexed.
+  * 👎🔎 Release version is not searchable online: the `studio-master-dev` branch is not indexed.
 
 # Android Gradle Plugin (AGP)
 
-* Latest sources are on [android.googlesource.com](https://android.googlesource.com/platform/tools/base/+/refs/heads/mirror-goog-studio-master-dev/build-system/) on the `mirror-goog-studio-master-dev` branch.
+* Latest sources are browsable on [cs.android.com](https://cs.android.com/android-studio/platform/tools/base).
 * When a release is stable, its sources are synced to [cs.android.com/android](https://cs.android.com/android/platform/superproject/+/studio-master-dev:tools/base/build-system/;bpv=1) on the `studio-master-dev` branch.
-  * 👎🔎 Not searchable online: the `studio-master-dev` branch is not indexed.
+  * 👎🔎 Release version is not searchable online: the `studio-master-dev` branch is not indexed.
 * [@jrodbx](https://github.com/jrodbx) dumped the sources for each release [on github](https://github.com/jrodbx/agp-sources).
   * The sources are dumped from Maven Central.
 
