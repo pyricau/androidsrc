@@ -11,14 +11,15 @@ This page helps Android developers find the sources they're looking for.
 ## Jetpack
 
 * Most Jetpack libraries have sources available on [cs.android.com/androidx](https://cs.android.com/androidx/platform/frameworks/support). Some interesting ones:
-  * [Activity](https://cs.android.com/androidx/platform/frameworks/support/+/androidx-master-dev:activity/)
-  * [Compose](https://cs.android.com/androidx/platform/frameworks/support/+/androidx-master-dev:compose/)
-  * [Fragment](https://cs.android.com/androidx/platform/frameworks/support/+/androidx-master-dev:fragment/)
-  * [Navigation](https://cs.android.com/androidx/platform/frameworks/support/+/androidx-master-dev:navigation/)
-  * [Paging](https://cs.android.com/androidx/platform/frameworks/support/+/androidx-master-dev:paging/)
-  * [Room](https://cs.android.com/androidx/platform/frameworks/support/+/androidx-master-dev:room/)
-  * [WorkManager](https://cs.android.com/androidx/platform/frameworks/support/+/androidx-master-dev:work/)
-  * [Startup](https://cs.android.com/androidx/platform/frameworks/support/+/androidx-master-dev:startup/)
+  * [Activity](https://cs.android.com/androidx/platform/frameworks/support/+/androidx-main:activity/)
+  * [Compose](https://cs.android.com/androidx/platform/frameworks/support/+/androidx-main:compose/)
+  * [Fragment](https://cs.android.com/androidx/platform/frameworks/support/+/androidx-main:fragment/)
+  * [Hilt Jetpack extensions](https://cs.android.com/androidx/platform/frameworks/support/+/androidx-main:hilt/)
+  * [Navigation](https://cs.android.com/androidx/platform/frameworks/support/+/androidx-main:navigation/)
+  * [Paging](https://cs.android.com/androidx/platform/frameworks/support/+/androidx-main:paging/)
+  * [Room](https://cs.android.com/androidx/platform/frameworks/support/+/androidx-main:room/)
+  * [Startup](https://cs.android.com/androidx/platform/frameworks/support/+/androidx-main:startup/)
+  * [WorkManager](https://cs.android.com/androidx/platform/frameworks/support/+/androidx-main:work/)
 * That repository is also synced [to GitHub](https://github.com/androidx/androidx)
     * You can contribute via GitHub to a [subset of projects](https://github.com/androidx/androidx#contribution-guide) (experimental workflow). You can also contribute by clicking **Edit Code** in a file on cs.android.com, which should work for all projects in that repository.
 
