@@ -99,5 +99,6 @@ Skia is a 2D graphics library used by Android and Compose Desktop. On Android it
 # Google Play Services
 
 * Play Services is not open source. I added this entry because people keep asking about it 😅.
+  *  A small number of Gradle plugins related to Play Services, including `strict-version-matcher-plugin`, `oss-licenses-plugin`, and `google-services-plugin`, have been open sourced [on GitHub](https://github.com/google/play-services-plugins).
 
 
