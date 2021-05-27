@@ -52,6 +52,7 @@ This page helps Android developers find the sources they're looking for.
 * View internals? See [View.java](https://cs.android.com/android/platform/superproject/+/master:frameworks/base/core/java/android/view/View.java).
 * Activity lifecycle? See [ActivityThread.java](https://cs.android.com/android/platform/superproject/+/master:frameworks/base/core/java/android/app/ActivityThread.java).
 * Art Runtime? See [class.cc](https://cs.android.com/android/platform/superproject/+/master:art/runtime/mirror/class.cc).
+* Androidx javadoc [androidx.de](https://androidx.de/index.html) 
 
 ## What if it's a new version, sources not available yet?
 
